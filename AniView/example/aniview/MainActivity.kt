@@ -7,6 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.appbar.MaterialToolbar
 
 class MainActivity : AppCompatActivity() {
 
@@ -24,6 +25,9 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+        val topAppBar: MaterialToolbar = findViewById(R.id.topAppBar)
+        topAppBar.title = "AniView"
 
         imageId = arrayOf(
             R.drawable.full_metal_alchemist,
@@ -55,6 +59,7 @@ class MainActivity : AppCompatActivity() {
         newRecyclerView.layoutManager = LinearLayoutManager(this)
         newRecyclerView.setHasFixedSize(true)
 
+
         newArrayList = arrayListOf<Anime>()
         getUserdata()
     }
@@ -65,6 +70,7 @@ class MainActivity : AppCompatActivity() {
             val anime = Anime(imageId[i],heading[i])
             newArrayList.add(anime)
         }
-        newRecyclerView.adapter = AnimeAdapter(newArrayList)
+        newRecyclerView.adapter = AnimeAdapter(this, newArrayList)
+
     }
 }

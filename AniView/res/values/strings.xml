@@ -1,4 +1,32 @@
 <resources>
     <string name="app_name">AniView</string>
     <string name="anime">Naruto</string>
+
+    <!-- Nama Anime -->
+    <string-array name="anime_names">
+        <item>Full Metal Alchemist</item>
+        <item>Attack on Titan</item>
+        <item>Death Note</item>
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Steins;Gate</item>
+        <item>Boku no Hero Academia</item>
+        <item>Hunter×Hunter</item>
+        <item>Cowboy Bebop</item>
+        <item>Demon Slayer</item>
+    </string-array>
+
+    <!-- Deskripsi Anime -->
+    <string-array name="anime_descriptions">
+        <item>Mengikuti perjalanan Edward dan Alphonse Elric, dua saudara yang berusaha mengembalikan tubuh mereka yang hilang setelah alkimia gagal. Penuh aksi dan emosi, anime ini dikenal karena cerita yang dalam dan karakter yang kuat.</item>
+        <item>Manusia berjuang melawan raksasa yang ingin membinasakan mereka. Anime ini memiliki plot kompleks dengan banyak twist dan aksi epik</item>
+        <item>Light Yagami, seorang siswa pintar, menemukan buku yang bisa membunuh siapa pun jika namanya ditulis di dalamnya. Permainan cerdas antara Light dan detektif L menjadi cerita yang mendebarkan.</item>
+        <item>Naruto Uzumaki, seorang ninja muda yang bercita-cita menjadi Hokage, menghadapi berbagai tantangan untuk melindungi desanya. Naruto menjadi salah satu anime terpopuler dengan karakter yang kuat dan tema persahabatan.</item>
+        <item>Deskripsi untuk One Piece</item>
+        <item>Deskripsi untuk Steins;Gate</item>
+        <item>Deskripsi untuk Boku no Hero Academia</item>
+        <item>Deskripsi untuk Hunter×Hunter</item>
+        <item>Deskripsi untuk Cowboy Bebop</item>
+        <item>Deskripsi untuk Demon Slayer</item>
+    </string-array>
 </resources>
