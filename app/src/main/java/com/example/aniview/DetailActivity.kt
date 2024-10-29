@@ -26,6 +26,15 @@ class DetailActivity : AppCompatActivity() {
         topAppBar.setNavigationOnClickListener {
             finish()
         }
+        val toolbar: androidx.appcompat.widget.Toolbar = findViewById(R.id.topAppBar)
+        setSupportActionBar(toolbar)
+
+        toolbar.setNavigationOnClickListener {
+            onBackPressed()
+        }
+
+        // Set title if needed
+        supportActionBar?.title = "Detail Anime"
 
         nameTextView.text = animeName
         descriptionTextView.text = animeDescription

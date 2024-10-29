@@ -50,43 +50,22 @@ class MainActivity : AppCompatActivity() {
             R.drawable.steins_gate
         )
 
-        heading = arrayOf(
-            "Attack on Titan",
-            "Bleach",
-            "Cowboy Bebop",
-            "Death Note",
-            "Demon Slayer",
-            "Edens Zero",
-            "Fullmetal Alchemist Brotherhood",
-            "Gangsta.",
-            "Hunter×Hunter",
-            "Inazuma Eleven",
-            "Jujutsu Kaisen",
-            "K",
-            "Log Horizon",
-            "My Hero Academia",
-            "Naruto",
-            "One Piece",
-            "Persona 4",
-            "Steins;Gate"
-        )
 
-        newRecyclerView =findViewById(R.id.recyclerView)
+        heading = resources.getStringArray(R.array.anime_names)
+
+        newRecyclerView = findViewById(R.id.recyclerView)
         newRecyclerView.layoutManager = LinearLayoutManager(this)
         newRecyclerView.setHasFixedSize(true)
-
 
         newArrayList = arrayListOf<Anime>()
         getUserdata()
     }
 
     private fun getUserdata() {
-        for (i in imageId.indices){
-
-            val anime = Anime(imageId[i],heading[i])
+        for (i in imageId.indices) {
+            val anime = Anime(imageId[i], heading[i])
             newArrayList.add(anime)
         }
         newRecyclerView.adapter = AnimeAdapter(this, newArrayList)
-
     }
 }

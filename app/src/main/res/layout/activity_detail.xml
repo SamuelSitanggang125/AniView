@@ -15,7 +15,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:background="@color/purple_200"
-            android:title="AniView"
+            android:title="Detail Anime"
             android:titleTextColor="@color/white"
             app:navigationIcon="@drawable/ic_backbtn"
             app:titleTextAppearance="@style/ToolbarTitleText"
