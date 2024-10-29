@@ -30,29 +30,45 @@ class MainActivity : AppCompatActivity() {
         topAppBar.title = "AniView"
 
         imageId = arrayOf(
-            R.drawable.full_metal_alchemist,
             R.drawable.attack_on_titan,
+            R.drawable.bleach,
+            R.drawable.cowboy_bepop,
             R.drawable.death_note,
+            R.drawable.demon_slayer,
+            R.drawable.edens_zero,
+            R.drawable.full_metal_alchemist,
+            R.drawable.gangsta,
+            R.drawable.hunter_hunter,
+            R.drawable.inazuma_eleven,
+            R.drawable.jujutsu_kaisen,
+            R.drawable.k,
+            R.drawable.log_horizon,
+            R.drawable.boku_no_hero,
             R.drawable.naruto,
             R.drawable.one_piece,
-            R.drawable.steins_gate,
-            R.drawable.boku_no_hero,
-            R.drawable.hunter_hunter,
-            R.drawable.cowboy_bepop,
-            R.drawable.demon_slayer
+            R.drawable.persona,
+            R.drawable.steins_gate
         )
 
         heading = arrayOf(
-            "Full Metal Alchemist",
             "Attack on Titan",
+            "Bleach",
+            "Cowboy Bebop",
             "Death Note",
+            "Demon Slayer",
+            "Edens Zero",
+            "Fullmetal Alchemist Brotherhood",
+            "Gangsta.",
+            "Hunter×Hunter",
+            "Inazuma Eleven",
+            "Jujutsu Kaisen",
+            "K",
+            "Log Horizon",
+            "My Hero Academia",
             "Naruto",
             "One Piece",
-            "Steins;Gate",
-            "Boku no Hero Academia",
-            "Hunter×Hunter",
-            "Cowboy Bepop",
-            "Demon Slayer"
+            "Persona 4",
+            "Steins;Gate"
         )
 
         newRecyclerView =findViewById(R.id.recyclerView)

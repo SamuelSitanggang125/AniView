@@ -58,7 +58,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:text="Anime Description"
-            android:textSize="16sp"/>
+            android:textSize="18sp"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
