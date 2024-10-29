@@ -6,6 +6,8 @@ Lab:  4
 
 Nama Aplikasi:  AniView
 
+Link App Project: https://drive.google.com/file/d/1PvfDw2WVGFZ5b9RdvLbtSMfKGTDs4JYD/view?usp=sharing
+
 Desc:  AniView merupakan aplikasi mobile yang berfungsi untuk menampilkan list dari Anime.
 Dimana jika kita memilih salah satu anime yang ada dalam list, maka akan ditampilkan gambar, 
 judul, dan juga sinopsis dari anime tersebut.
