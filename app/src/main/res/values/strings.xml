@@ -8,6 +8,7 @@
     <string name="year">Year</string>
     <string name="sinopsis">Sinopsis: </string>
     <string name="desc">Anime Description</string>
+    <string name="visit">Visit MyAnimeList</string>
 
     <!-- Nama Anime -->
     <string-array name="anime_names">
@@ -121,4 +122,24 @@
         <item>2011</item>
     </string-array>
 
+    <string-array name="anime_websites">
+        <item>https://myanimelist.net/anime/16498/Shingeki_no_Kyojin</item>
+        <item>https://myanimelist.net/anime/269/Bleach</item>
+        <item>https://myanimelist.net/anime/1/Cowboy_Bebop</item>
+        <item>https://myanimelist.net/anime/1535/Death_Note</item>
+        <item>https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba</item>
+        <item>https://myanimelist.net/anime/47161/Edens_Zero</item>
+        <item>https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood</item>
+        <item>https://myanimelist.net/anime/25183/Gangsta</item>
+        <item>https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011</item>
+        <item>https://myanimelist.net/anime/5231/Inazuma_Eleven</item>
+        <item>https://myanimelist.net/anime/40748/Jujutsu_Kaisen</item>
+        <item>https://myanimelist.net/anime/14467/K</item>
+        <item>https://myanimelist.net/anime/17265/Log_Horizon</item>
+        <item>https://myanimelist.net/anime/31964/Boku_no_Hero_Academia</item>
+        <item>https://myanimelist.net/anime/20/Naruto</item>
+        <item>https://myanimelist.net/anime/21/One_Piece</item>
+        <item>https://myanimelist.net/anime/10588/Persona_4_The_Animation</item>
+        <item>https://myanimelist.net/anime/9253/Steins_Gate</item>
+    </string-array>
 </resources>

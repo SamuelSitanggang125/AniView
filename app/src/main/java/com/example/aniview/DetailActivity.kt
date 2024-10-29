@@ -1,6 +1,9 @@
 package com.example.aniview
 
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
@@ -18,6 +21,7 @@ class DetailActivity : AppCompatActivity() {
         val animeImage = intent.getIntExtra("ANIME_IMAGE", 0)
         val animeGenre = intent.getStringExtra("ANIME_GENRE")
         val animeYear = intent.getStringExtra("ANIME_YEAR")
+        val aniWebsite = intent.getStringExtra("aniWebsite")
 
         // Hubungkan view dengan data yang diterima
         val nameTextView: TextView = findViewById(R.id.detailAnimeName)
@@ -25,6 +29,7 @@ class DetailActivity : AppCompatActivity() {
         val yearTextView: TextView = findViewById(R.id.detailAnimeYear)
         val descriptionTextView: TextView = findViewById(R.id.detailAnimeDescription)
         val imageView: ImageView = findViewById(R.id.detailAnimeImage)
+        val websiteButton: Button = findViewById(R.id.webButton)
 
         val topAppBar = findViewById<MaterialToolbar>(R.id.topAppBar)
         topAppBar.setNavigationOnClickListener {
@@ -46,5 +51,12 @@ class DetailActivity : AppCompatActivity() {
         yearTextView.text = "Year: $animeYear"
         descriptionTextView.text = animeDescription
         imageView.setImageResource(animeImage)
+
+        websiteButton.setOnClickListener {
+            aniWebsite?.let {
+                val intent = Intent(Intent.ACTION_VIEW, Uri.parse(it))
+                startActivity(intent)
+            }
+        }
     }
 }
