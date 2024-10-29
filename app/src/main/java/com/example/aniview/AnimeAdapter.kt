@@ -28,6 +28,7 @@ class AnimeAdapter(private val context: Context, private val animeList: ArrayLis
             intent.putExtra("ANIME_NAME", currentItem.heading)
             intent.putExtra("ANIME_DESCRIPTION", context.resources.getStringArray(R.array.anime_descriptions)[position])
             intent.putExtra("ANIME_IMAGE", currentItem.animeImage)
+            intent.putExtra("ANIME_GENRE", context.resources.getStringArray(R.array.anime_genres)[position])
             context.startActivity(intent)
         }
     }

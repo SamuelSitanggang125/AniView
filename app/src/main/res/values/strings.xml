@@ -26,67 +26,88 @@
 
     <!-- Deskripsi Anime -->
     <string-array name="anime_descriptions">
-        <item>Genres: Action, Award Winning, Drama, Suspense
+        <item>
             \n \n  Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.
             \n \n  After witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.</item>
-        <item>Genres: Action, Adventure, Supernatural
+        <item>
             \n \n  Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo family from the assailant. To save his family, Ichigo accepts Rukia offer of taking her powers and becomes a Soul Reaper as a result.
             \n \n  However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.</item>
-        <item>Genres: Action, Award Winning, Sci-Fi
+        <item>
             \n \n  Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements like those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters.
             \n \n  Spike Spiegel and Jet Black pursue criminals throughout space to make a humble living. Beneath his goofy and aloof demeanor, Spike is haunted by the weight of his violent past. Meanwhile, Jet manages his own troubled memories while taking care of Spike and the Bebop, their ship. The duo is joined by the beautiful con artist Faye Valentine, odd child Edward Wong Hau Pepelu Tivrusky IV, and Ein, a bioengineered Welsh Corgi.
             \n \n  While developing bonds and working to catch a colorful cast of criminals, the Bebop crew lives are disrupted by a menace from Spike past. As a rival maniacal plot continues to unravel, Spike must choose between life with his newfound family or revenge for his old wounds.</item>
-        <item>Genres: Supernatural, Suspense
+        <item>
             \n \n  Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.
             \n \n  For his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon name, which disturbingly enacts his first murder.
             \n \n  Aware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light brilliance rivals L, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.</item>
-        <item>Genres: Action, Award Winning, Supernatural
+        <item>
             \n \n  Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.
             \n \n  When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister humanity.</item>
-        <item>Genres: Action, Adventure, Fantasy, Sci-Fi
+        <item>
             \n \n  All his life, Shiki has been surrounded by machines. At Granbell Kingdom, a long-abandoned amusement park, he is the only one of his kind around. That is, until Rebecca Bluegarden and her feline companion Happy arrive, unaware that they are Granbell first visitors in one hundred years. Their goal is to make fun videos for their B-Cube channel, but what they find instead is a friend in the socially awkward Shiki.
             \n \n  When Granbell becomes too dangerous for the three of them, they set off on an adventure through the Sakura Cosmos. They hope to make more interesting videos and even find the elusive goddess Mother, while Shiki wants to make more friends, spurred on by the words of his late grandfather. Of course, the journey will not be easy, as no one has seen Mother before, but Shiki is determined to reach his goal and explore the boundless reaches of space together with his new friends.</item>
-        <item>Genres: Action, Adventure, Drama, Fantasy
+        <item>
             \n \n  After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse soul in the physical realm by binding it to a hulking suit of armor.
             \n \n  The brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing "automail," a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.
             \n \n  As Edward becomes an infamous alchemist and gains the nickname "Fullmetal," the boys journey embroils them in a growing conspiracy that threatens the fate of the world.</item>
-        <item>Genres: Action, Drama
+        <item>
             \n \n  Nicholas Brown and Worick Arcangelo, known in the city of Ergastalum as the "Handymen," are mercenaries for hire who take on jobs no one else can handle. Contracted by powerful mob syndicates and police alike, the Handymen have to be ready and willing for anything. After completing the order of killing a local pimp, the Handymen add Alex Benedetto—a prostitute also designated for elimination—to their ranks to protect her from forces that want her gone from the decrepit hellhole of a city she has come to call home. However, this criminal’s paradise is undergoing a profound period of change that threatens to corrode the delicate balance of power.
             \n \n  Ergastalum was once a safe haven for "Twilights," super-human beings born as the result of a special drug but are now being hunted down by a fierce underground organization. This new threat is rising up to challenge everything the city stands for, and the Handymen will not be able to avoid this coming war.</item>
-        <item>Genres: Action, Adventure, Fantasy
+        <item>
             \n \n  Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.
             \n \n  Ambitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.
             \n \n  During the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.</item>
-        <item>Genre: Sports
+        <item>
             \n \n  While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded. The grandson of Inazuma Eleven first generation goalkeeper and captain of the team, Mamoru Endou, takes the challenge of kicking the long neglected club back into shape. To do this, he will need a little help and more than a little luck.
             \n \n  Mamoru Endou finds hope in the hands of Shuuya Gouenji, a brilliant young player who has given up on soccer. Mamoru is determined to get Shuuya and other new recruits to join his team, no matter what the cost. Is his passion and determination enough to treat the ailing club? Or is there no more hope for the team?</item>
-        <item>Genres: Action, Award Winning, Supernatural
+        <item>
             \n \n  Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the King of Curses.
             \n \n  Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Prefectural Jujutsu High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.</item>
-        <item>Genres: Action, Mystery
+        <item>
             \n \n  "Kings" are individuals who have been bestowed with incredible supernatural powers and granted the ability to recruit others into their clans. Protecting the lives and honor of their clansmen is an integral part of the Kings duties. After a video depicting the heinous murder of a Red Clansman spreads virally, the unassuming student Yashiro Isana is accused of homicide. Now, a manhunt is underway for his head, bringing him into contact with the infamous "Black Dog" Kurou Yatogami—a skilled swordsman and martial artist determined to follow the wishes of his late master, the Seventh King.
             \n \n  Meanwhile, the current Red King, Mikoto Suou, faces his own imminent demise as the search for Yashiro narrows. But during Yashiro struggle to prove his innocence, a greater conspiracy is unraveling behind the scenes; clouds begin to appear in his memory, and close friends start to question his very existence. What began as a simple murder is now leading towards a full blown war between Kings with the very fate of the world at stake.</item>
-        <item>Genres: Action, Adventure, Fantasy
+        <item>
             \n \n  In the blink of an eye, thirty thousand bewildered Japanese gamers are whisked from their everyday lives into the world of the popular MMORPG, Elder Tale, after the game latest update—unable to log out. Among them is the socially awkward college student Shiroe, whose confusion and shock lasts only a moment as, a veteran of the game, he immediately sets out to explore the limits of his new reality.
             \n \n  Shiroe must learn to live in this new world, leading others and negotiating with the NPC "natives" in order to bring stability to the virtual city of Akihabara. He is joined by his unfortunate friend Naotsugu, having logged in for the first time in years only to find himself trapped, and Akatsuki, a petite but fierce assassin who labels Shiroe as her master. A tale of fantasy, adventure, and politics, Log Horizon explores the elements of gaming through the eyes of a master strategist who attempts to make the best of a puzzling situation.</item>
-        <item>Genre: Action
+        <item>
             \n \n  The appearance of "quirks," newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.
             \n \n  Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!
             \n \n  Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.</item>
-        <item>Genres: Action, Adventure, Fantasy
+        <item>
             \n \n  Moments before Naruto Uzumaki birth, a huge demon known as the Nine-Tailed Fox attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the demon rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
             \n \n  In the present, Naruto is a hyperactive and knuckle-headed ninja growing up within Konohagakure. Shunned because of the demon inside him, Naruto struggles to find his place in the village. His one burning desire to become the Hokage and be acknowledged by the villagers who despite him. However, while his goal leads him to unbreakable bonds with lifelong friends, it also lands him in the crosshairs of many deadly foes.</item>
-        <item>Genres: Action, Adventure, Fantasy
+        <item>
             \n \n  Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it.
             \n \n  The late King of the Pirates, Gol D. Roger, stirred up the world before his death by disclosing the whereabouts of his hoard of riches and daring everyone to obtain it. Ever since then, countless powerful pirates have sailed dangerous seas for the prized One Piece only to never return. Although Luffy lacks a crew and a proper ship, he is endowed with a superhuman ability and an unbreakable spirit that make him not only a formidable adversary but also an inspiration to many.
             \n \n  As he faces numerous challenges with a big smile on his face, Luffy gathers one-of-a-kind companions to join him in his ambitious endeavor, together embracing perils and wonders on their once-in-a-lifetime adventure.</item>
-        <item>Genres: Action, Mystery, Sci-Fi, Supernatural
+        <item>
             \n \n  Serial murders have recently plagued Inaba, with the police struggling to find any leads. Despite this, due to his parents going abroad for work, Yuu Narukami moves to the small town to live with his uncle for a year. He enrolls at Yasogami High School, where he meets and befriends Yousuke Hanamura, Chie Satonaka, and Yukiko Amagi.
             \n \n  While hanging out together after school, the group fills Yuu in on the urban legend known as the "Midnight Channel"—a mysterious TV channel that only appears at midnight on rainy days while the viewer is alone. Curious about the claim, Yuu decides to tune in that night, only to see the next victim of the serial murders appear on the screen instead. He also finds himself being drawn into the TV, which intrigues his newfound friends enough to want to investigate.
             \n \n  Yuu ends up falling into the world within the TV, which is blanketed by a thick fog and swarming with hostile creatures known as "Shadows." Realizing that this world is somehow connected to the murders, the Investigation Team forms with the goal of uncovering the mystery behind the incidents.</item>
-        <item>Genres: Drama, Sci-Fi, Suspense
+        <item>
             \n \n  Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable "gadget" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.
             \n \n  However, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the "Phone Microwave" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the "time machine," attracting the ire and attention of the mysterious organization SERN.
             \n \n  Due to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity.</item>
+    </string-array>
+
+    <string-array name="anime_genres">
+        <item>Genres: Action, Award Winning, Drama, Suspense</item>
+        <item>Genres: Action, Adventure, Supernatural</item>
+        <item>Genres: Action, Award Winning, Sci-Fi</item>
+        <item>Genres: Supernatural, Suspense</item>
+        <item>Genres: Action, Award Winning, Supernatural</item>
+        <item>Genres: Action, Adventure, Fantasy, Sci-Fi</item>
+        <item>Genres: Action, Adventure, Drama, Fantasy</item>
+        <item>Genres: Action, Drama</item>
+        <item>Genres: Action, Adventure, Fantasy</item>
+        <item>Genre: Sports</item>
+        <item>Genres: Action, Award Winning, Supernatural</item>
+        <item>Genres: Action, Mystery</item>
+        <item>Genres: Action, Adventure, Fantasy</item>
+        <item>Genre: Action</item>
+        <item>Genres: Action, Adventure, Fantasy</item>
+        <item>Genres: Action, Adventure, Fantasy</item>
+        <item>Genres: Action, Mystery, Sci-Fi, Supernatural</item>
+        <item>Genres: Drama, Sci-Fi, Suspense</item>
     </string-array>
 </resources>

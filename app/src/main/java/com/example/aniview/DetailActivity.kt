@@ -16,9 +16,11 @@ class DetailActivity : AppCompatActivity() {
         val animeName = intent.getStringExtra("ANIME_NAME")
         val animeDescription = intent.getStringExtra("ANIME_DESCRIPTION")
         val animeImage = intent.getIntExtra("ANIME_IMAGE", 0)
+        val animeGenre = intent.getStringExtra("ANIME_GENRE")
 
         // Hubungkan view dengan data yang diterima
         val nameTextView: TextView = findViewById(R.id.detailAnimeName)
+        val genreTextView: TextView = findViewById(R.id.detailAnimeGenre)
         val descriptionTextView: TextView = findViewById(R.id.detailAnimeDescription)
         val imageView: ImageView = findViewById(R.id.detailAnimeImage)
 
@@ -36,7 +38,9 @@ class DetailActivity : AppCompatActivity() {
         // Set title if needed
         supportActionBar?.title = "Detail Anime"
 
+        // Set data ke TextViews dan ImageView
         nameTextView.text = animeName
+        genreTextView.text = animeGenre
         descriptionTextView.text = animeDescription
         imageView.setImageResource(animeImage)
     }
