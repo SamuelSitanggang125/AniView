@@ -17,10 +17,12 @@ class DetailActivity : AppCompatActivity() {
         val animeDescription = intent.getStringExtra("ANIME_DESCRIPTION")
         val animeImage = intent.getIntExtra("ANIME_IMAGE", 0)
         val animeGenre = intent.getStringExtra("ANIME_GENRE")
+        val animeYear = intent.getStringExtra("ANIME_YEAR")
 
         // Hubungkan view dengan data yang diterima
         val nameTextView: TextView = findViewById(R.id.detailAnimeName)
         val genreTextView: TextView = findViewById(R.id.detailAnimeGenre)
+        val yearTextView: TextView = findViewById(R.id.detailAnimeYear)
         val descriptionTextView: TextView = findViewById(R.id.detailAnimeDescription)
         val imageView: ImageView = findViewById(R.id.detailAnimeImage)
 
@@ -40,7 +42,8 @@ class DetailActivity : AppCompatActivity() {
 
         // Set data ke TextViews dan ImageView
         nameTextView.text = animeName
-        genreTextView.text = animeGenre
+        genreTextView.text = "Genre: $animeGenre"
+        yearTextView.text = "Year: $animeYear"
         descriptionTextView.text = animeDescription
         imageView.setImageResource(animeImage)
     }
