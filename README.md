@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5a0323c-4e9f-40f4-bdf6-eb6600c45efe)Nama: Samuel Bryan Parasian Sitanggang
+Nama: Samuel Bryan Parasian Sitanggang
 
 Nim:  221401125
 
