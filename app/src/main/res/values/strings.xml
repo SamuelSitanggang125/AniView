@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">AniView</string>
     <string name="anime">Naruto</string>
+    <string name="detail_anime">Detail Anime</string>
+    <string name="anime_image">Anime Image</string>
+    <string name="anime_name">Anime Name</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="sinopsis">Sinopsis: </string>
+    <string name="desc">Anime Description</string>
 
     <!-- Nama Anime -->
     <string-array name="anime_names">

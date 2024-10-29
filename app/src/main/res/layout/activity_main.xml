@@ -12,7 +12,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@color/purple_200"
-        android:title="AniView"
+        android:title="@string/app_name"
         android:titleTextColor="@color/white"
         app:titleTextAppearance="@style/ToolbarTitleText"
         app:layout_constraintTop_toTopOf="parent"
