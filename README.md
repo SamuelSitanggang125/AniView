@@ -17,7 +17,7 @@ Credit Sumber Asset:
 -MyAnimeList
 -Wikipedia
 
-Screenshot Figma:
+Screenshot Prototype:
 
 ![image](https://github.com/user-attachments/assets/5c362474-4166-40d3-9411-a5fe20728a39)
 
