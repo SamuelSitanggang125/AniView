@@ -13,11 +13,10 @@ Dimana jika kita memilih salah satu anime yang ada dalam list, maka akan ditampi
 judul, dan juga sinopsis dari anime tersebut.
 
 Credit Sumber Asset:
--RottenTomato
--IMDb
--MyPalladium
--MyAnimeList
--Wikipedia
+-RottenTomatoes: https://www.rottentomatoes.com
+-IMDb: https://www.imdb.com
+-MyAnimeList: https://myanimelist.net
+-Wikipedia: https://www.wikipedia.org
 
 Screenshot Prototype:
 
