@@ -18,9 +18,11 @@ Credit Sumber Asset:
 -Wikipedia
 
 Screenshot Figma:
+
 ![image](https://github.com/user-attachments/assets/5c362474-4166-40d3-9411-a5fe20728a39)
 
 Screenshot Aplikasi
+
 Main Activity
 
 ![image](https://github.com/user-attachments/assets/9e0807d1-f555-4613-80bb-9e1f99245456)
